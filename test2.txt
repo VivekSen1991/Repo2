@@ -3,10 +3,10 @@
 
  Directory of C:\Users\Lenovo\Desktop\MyProject
 
-25-05-2020  08:24 PM    <DIR>          .
-25-05-2020  08:24 PM    <DIR>          ..
+25-05-2020  08:36 PM    <DIR>          .
+25-05-2020  08:36 PM    <DIR>          ..
 25-05-2020  01:33 PM                22 index.html
 25-05-2020  01:47 PM                37 test1.txt
-25-05-2020  08:24 PM               120 test2.txt
-               3 File(s)            179 bytes
-               2 Dir(s)  458,075,074,560 bytes free
+25-05-2020  08:37 PM                 0 test2.txt
+               3 File(s)             59 bytes
+               2 Dir(s)  458,088,796,160 bytes free
