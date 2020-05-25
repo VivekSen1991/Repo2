@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 245C-F1B7
-
- Directory of C:\Users\Lenovo\Desktop\MyProject
-
-25-05-2020  01:13 PM    <DIR>          .
-25-05-2020  01:13 PM    <DIR>          ..
-25-05-2020  01:13 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  458,135,838,720 bytes free
+First GitHub Project
